@@ -1,4 +1,19 @@
-### Hi there 👋
+## I like to program for fun, sometimes.
+  ... And when I'm not programming I'm outside. 
+
+Currently I'm focusing on web development across a variety of projects you can check out.
+
+* History of Computing (A big research project for Loyola Chicago)
+
+* FoodSpector, a website about food inspections in Chicago
+
+* Navy Seal Copypasta Generator, which lets people create their very own copypasta (and presets) really quickly.
+
+* A website about corn, coming soon ™. 
+
+* My own personal website, which no one will actually see, so I use it to experiment. 
+
+Also, if you are a power mac user, check out my applescript repo. 
 
 <!--
 **acrose99/acrose99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
