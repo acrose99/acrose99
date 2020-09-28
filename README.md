@@ -1,7 +1,7 @@
 ## I like to program for fun, sometimes.
   ... And when I'm not programming I'm outside. 
 
-Currently I'm focusing on web development across a variety of projects you can check out.
+Currently I'm focusing on web development across a variety of projects you can check out. Other then these projects, I'm miserable doing schoolwork.
 
 * History of Computing (A big research project for Loyola Chicago)
 
@@ -11,7 +11,7 @@ Currently I'm focusing on web development across a variety of projects you can c
 
 * A website about corn, coming soon ™. 
 
-* My own personal website, which no one will actually see, so I use it to experiment. 
+* My own personal website, which no one will actually see, so I use it to experiment. I also write about stuff here, mostly as an escape from coding. 
 
 Also, if you are a power mac user, check out my applescript repo. 
 
