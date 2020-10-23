@@ -6,8 +6,6 @@ Currently I'm focusing on web development across a variety of projects you can c
 
 * FoodSpector, a website about food inspections in Chicago
 
-* Navy Seal Copypasta Generator, which lets people create their very own copypasta (and presets) really quickly.
-
 * My own personal website, which no one will actually see, so I use it to experiment. I also write about stuff here, mostly as an escape from coding. 
 
 Also, if you are a power mac user, check out my applescript repo. 
