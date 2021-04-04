@@ -1,9 +1,9 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="150" alt="My Name is Alex and I like React.js" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Ff57293f39b4d5023c619991f714f3908%2Ftenor.gif%3Fitemid%3D17396599&f=1&nofb=1" />
+  <img height="150" alt="My Name is Alex and I like React.js" src="https://media1.tenor.com/images/f57293f39b4d5023c619991f714f3908/tenor.gif" />
   <br />
   <br />
 
@@ -18,24 +18,26 @@
 <br />
 <br />
 
-<!-- Centering something has never been easy, has it? -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img alt="Globe" height="80" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F2.bp.blogspot.com%2F-a7nZ12W0qY4%2FTaOiy2MXC0I%2FAAAAAAAAAEY%2FvMXmEo3fDHY%2Fs1600%2Fgarfield-with-rose.gif&f=1&nofb=1">
+<img alt="garf" height="80" src="https://2.bp.blogspot.com/-a7nZ12W0qY4/TaOiy2MXC0I/AAAAAAAAAEY/vMXmEo3fDHY/s1600/garfield-with-rose.gif">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 
+<td align="center">
+
+<br />
 
 <td align="center">
-<a hrefhttps://youtu.be/_zSX7GJc1i8">
+<a href="https://youtu.be/_zSX7GJc1i8">
 <strong>Listen to cool music</strong>
 <br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img height="100" alt="Music" src="http://static02.mediaite.com/themarysue/uploads/2017/03/garfield-odie-dancing.gif">
+<img height="100" alt="Music" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F698b90130251d13253c2e952daaa3a6d%2Ftenor.gif%3Fitemid%3D14829254&f=1&nofb=1">
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -50,9 +52,9 @@
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<img src="assets/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="assets/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </div>
