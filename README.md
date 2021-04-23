@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://youtu.be/_zSX7GJc1i8">
+<a href="https://open.spotify.com/playlist/30uJg8c5BL8eaM30Uk5ytN?si=e59945acf87b4607">
 <strong>Listen to cool music</strong>
 <br />
 
