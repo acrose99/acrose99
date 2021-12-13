@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acrose99&hide=java,css,html&bg_color=30,FFA2F6,7D88FF&text_color=ECF3FF&title_color=ECF3FF)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Alexs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acrose99)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Alex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=acrose99)](https://github.com/anuraghazra/github-readme-stats)
